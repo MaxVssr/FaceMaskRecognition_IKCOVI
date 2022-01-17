@@ -1,0 +1,3 @@
+# Hier kun je je emails toevoegen die je wilt gebruiken in Email.py. De eerste email die je definieert is de sender email, de tweede de receiver email. De eerste email moet in dit geval wel een gmail adres zijn, ivm de smtp server.
+joe639537@gmail.com
+max.visser123@gmail.com
